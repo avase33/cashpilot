@@ -36,7 +36,7 @@
 
 Most startups die not from bad ideas, but from running out of cash without seeing it coming.
 
-CashPilot gives founders and finance teams a **single source of truth** for their money — across every bank account, every invoice sent, every bill owed — and turns that data into a clear picture of where you stand today and how long your runway lasts.
+CashPilot gives founders and finance teams a **single source of truth** for their money  across every bank account, every invoice sent, every bill owed  and turns that data into a clear picture of where you stand today and how long your runway lasts.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -55,8 +55,8 @@ CashPilot gives founders and finance teams a **single source of truth** for thei
 ## 🚀 Feature Highlights
 
 ### 💳 Account & Transaction Management
-- **7 account types** — checking, savings, credit, investment, cash, crypto, other
-- **Real-time balance reconciliation** — every transaction instantly updates account balances
+- **7 account types**  checking, savings, credit, investment, cash, crypto, other
+- **Real-time balance reconciliation** every transaction instantly updates account balances
 - **21 categories** spanning income (revenue, consulting, investments) and expenses (payroll, rent, SaaS, marketing)
 - Searchable, filterable transaction ledger with type icons and category tags
 
@@ -74,7 +74,7 @@ draft  →  sent  →  viewed  →  paid
 
 ### 🧾 Bills & Recurring Payments
 - Schedule one-off or recurring bills (weekly / biweekly / monthly / quarterly / yearly)
-- **Auto-reschedule** — paying a recurring bill automatically creates the next occurrence
+- **Auto-reschedule**  paying a recurring bill automatically creates the next occurrence
 - Overdue detection with dashboard warnings
 - Vendor + category tagging for report grouping
 
@@ -89,7 +89,7 @@ Today ────────────────────────�
   └─ Expected invoices   (mapped to weeks)
 ```
 - Weekly projection buckets for the next 30, 60, or 90 days
-- **Runway calculation** — days until balance hits zero at current burn rate
+- **Runway calculation**  days until balance hits zero at current burn rate
 - Visual AreaChart with projected balance, expected income, and scheduled expenses
 - Detailed weekly breakdown table
 
@@ -102,10 +102,10 @@ Today ────────────────────────�
 | 🔴 Runway Warning | Projected runway < configurable days |
 
 ### 📊 Reports & Analytics
-- **Dashboard** — 4 KPI cards + Cash Flow AreaChart + Expense BarChart
-- **Cash Flow Report** — monthly income vs expense, by-category breakdown
-- **Balance Summary** — assets by account type with utilization bars
-- **Custom date range** — last 3M / 6M / 12M / YTD or any range
+- **Dashboard**  4 KPI cards + Cash Flow AreaChart + Expense BarChart
+- **Cash Flow Report**  monthly income vs expense, by-category breakdown
+- **Balance Summary**  assets by account type with utilization bars
+- **Custom date range**  last 3M / 6M / 12M / YTD or any range
 
 ### 👥 Multi-Tenant Teams
 | Role | Permissions |
@@ -168,7 +168,7 @@ Today ────────────────────────�
 
 ## ⚡ Quick Start
 
-### 🐳 Docker (recommended — one command)
+### 🐳 Docker (recommended  one command)
 
 ```bash
 # 1. Clone
