@@ -24,7 +24,7 @@
 
 <br/>
 
-> **CashPilot** is a production-ready FinTech platform built for startups that need real command over their finances — live cash flow visibility, automated invoice and bill management, 90-day runway forecasting, and smart alerts that catch problems before they become crises.
+> **CashPilot** is a production-ready FinTech platform built for startups that need real command over their finances  live cash flow visibility, automated invoice and bill management, 90-day runway forecasting, and smart alerts that catch problems before they become crises.
 
 <br/>
 
