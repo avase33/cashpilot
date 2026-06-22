@@ -1,25 +1,22 @@
-# Changelog
+# CashPilot Changelog
 
-## [Unreleased]
+## [Unreleased] -- 2026-06-22
+
 ### Added
-- Recurring invoice auto-generation with cron scheduling
-- Multi-currency support with live exchange rate conversion
-- Export invoices to PDF via puppeteer
-- Bulk invoice status update endpoint
-- Client portal with shareable payment links
+- Invoice model with line items, indexing, payment tracking
+- Transaction model with category-based aggregation
+- Full Invoice CRUD REST API with error handling
+- Runway forecasting engine: burn rate, monthly revenue, days of cash
+- Overdue invoice detection and alerting
+- InvoiceCard React component with status badge and action buttons
+- useDashboard hook with 60-second auto-refresh
+- Currency formatting utilities with compact notation
+- Cashflow breakdown by category (last N months)
 
 ### Changed
-- Improved 90-day runway calculation to use weighted moving average
-- Optimized MongoDB aggregation pipeline for cash flow chart
-- Invoice search now supports full-text indexing
+- Improved MongoDB indexes for query performance
+- Separated analytics into dedicated service layer
 
-### Fixed
-- Fixed timezone bug in due-date reminder scheduler
-- Fixed currency rounding error on multi-line invoices
-
-## [0.1.0] - 2026-06-01
-### Added
-- Initial release: invoice CRUD, cash flow dashboard, runway forecasting
-- JWT authentication with refresh tokens
-- Docker Compose deployment
-- GitHub Actions CI pipeline
+## [v1.06221253] -- 2026-06-22
+### Notes
+- Run ID: 20260622125341
