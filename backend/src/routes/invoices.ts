@@ -1,4 +1,4 @@
-// Invoice routes -- 2026-06-27 23:13:41
+// Invoice routes -- 2026-06-27 23:14:29
 import { Router, Request, Response } from 'express';
 import { Invoice } from '../models/Invoice';
 
