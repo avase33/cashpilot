@@ -1,6 +1,6 @@
 # CashPilot Changelog
 
-## [Unreleased] -- 2026-06-29
+## [Unreleased] -- 2026-06-30
 
 ### Added
 - Invoice model with line items, indexing, payment tracking
@@ -17,6 +17,6 @@
 - Improved MongoDB indexes for query performance
 - Separated analytics into dedicated service layer
 
-## [v1.06291428] -- 2026-06-29
+## [v1.06301102] -- 2026-06-30
 ### Notes
-- Run ID: 20260629142807
+- Run ID: 20260630110250
