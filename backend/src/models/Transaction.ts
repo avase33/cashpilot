@@ -1,4 +1,4 @@
-// Transaction model -- 2026-07-07 12:14:29
+// Transaction model -- 2026-07-07 12:15:34
 import mongoose, { Document, Schema } from 'mongoose';
 
 export interface ITransaction extends Document {
