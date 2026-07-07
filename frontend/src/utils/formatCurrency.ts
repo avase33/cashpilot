@@ -1,4 +1,4 @@
-// Currency formatting utils -- 2026-07-07 13:13:24
+// Currency formatting utils -- 2026-07-07 13:14:34
 
 export function formatCurrency(amount: number, currency = 'USD', locale = 'en-US'): string {
   return new Intl.NumberFormat(locale, { style: 'currency', currency }).format(amount);
