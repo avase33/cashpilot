@@ -1,4 +1,4 @@
-// useDashboard hook -- 2026-07-07 12:16:57
+// useDashboard hook -- 2026-07-07 12:18:03
 import { useState, useEffect } from 'react';
 
 interface DashboardData {
