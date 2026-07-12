@@ -1,4 +1,4 @@
-// CashFlow Analyzer -- 2026-07-12 14:20:27
+// CashFlow Analyzer -- 2026-07-12 14:23:23
 import { Transaction } from '../models/Transaction';
 import { Invoice } from '../models/Invoice';
 
