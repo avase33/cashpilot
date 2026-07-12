@@ -1,4 +1,4 @@
-// Invoice model -- 2026-07-12 11:52:20
+// Invoice model -- 2026-07-12 11:53:56
 import mongoose, { Document, Schema } from 'mongoose';
 
 export interface IInvoice extends Document {
