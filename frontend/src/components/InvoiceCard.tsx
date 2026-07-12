@@ -1,4 +1,4 @@
-// InvoiceCard component -- 2026-07-12 12:33:25
+// InvoiceCard component -- 2026-07-12 12:35:11
 import React from 'react';
 
 interface Invoice {
